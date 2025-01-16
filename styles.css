@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(177, 79, 226, 0.748);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+}
+img{
+    width: 375px;
+}
