@@ -172,20 +172,20 @@ header {
 
 h1 {
     font-family: "Press Start 2P";
-    color: #264653;
+    color: #2691BC;
     font-size: 3em;
 }
 
 h2 {
     font-family: "Press Start 2P";
-    color: #264653;
+    color: #2691BC;
     font-size: 1.8em;
 }
 
 h3 {
     font-family: "Press Start 2P";
     width: 100%;
-    color: #264653;
+    color: #2691BC;
     font-size: 1.6em;
 }
 
@@ -299,7 +299,7 @@ p {
     transform: translate(-50%, -60%);  /* Centering offset */
     z-index: 4;  /* Ensure it's above all rectangles */
     font-family: "Press Start 2P";  /* Maintain the existing font */
-    color: #264653;
+    color: #2691BC;
     font-size: 3em;
     text-align: center;  /* Center the text horizontally */
     padding-bottom: 30px;
@@ -367,9 +367,9 @@ p {
     margin-top: 70px;
     margin-left: 20px;
     background-color: rgba(0, 0, 0, 0.55);
-    color: #264653;
+    color: #2691BC;
     font-weight: bold;
-    border: 3px solid #264653;
+    border: 3px solid #2691BC;
     border-radius: 15px;
     width: 96%;
     height: 98%;
@@ -387,21 +387,21 @@ p {
     font-size: 3em;
     margin: 10px 0;
     text-shadow: 
-        -2px -2px 0 #2A9D8F,
-        2px -2px 0 #2A9D8F,
-        -2px  2px 0 #2A9D8F,
-        2px  2px 0 #2A9D8F;  /* Bottom-right shadow */
-    color: #264653;        /* Inner text color */
+        -2px -2px 0 #E9C46A,
+        2px -2px 0 #E9C46A,
+        -2px  2px 0 #E9C46A,
+        2px  2px 0 #E9C46A;  /* Bottom-right shadow */
+    color: #337995;        /* Inner text color */
 }
 
 #blur-p {
     font-size: 2em;
     margin: 20px 0;
     text-shadow: 
-        -2px -2px 0 #264653,
-         2px -2px 0 #264653,
-        -2px  2px 0 #264653,
-         2px  2px 0 #264653;
+        -2px -2px 0 #E9C46A,
+         2px -2px 0 #E9C46A,
+        -2px  2px 0 #E9C46A,
+         2px  2px 0 #E9C46A;
     color: #2A9D8F;
 }
 
